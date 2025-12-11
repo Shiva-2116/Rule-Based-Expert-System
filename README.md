@@ -1,4 +1,4 @@
-# Rule-Based-Expert-System
+# Maze Solver
 Simple AI project using rule-based expert system with forward chaining.
 # 🧩 Maze Solver using A* Search Algorithm
 
